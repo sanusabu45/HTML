@@ -1,0 +1,97 @@
+ html,body
+ {
+ 	margin: 0px;
+ 	padding: 0px;
+ }
+ .run
+     {
+     	padding: 70px 50px 60px 50px;
+		background-color: rgb(143,188,143);
+		border-radius: 1px;
+		background:#0C9077;
+		float: left;
+      }
+      .t
+      {
+      	width: 20%;
+      	float: right;
+      }
+      .p2
+      {
+      	width:1000px;
+      	float: left;
+      }
+
+      .o
+      {
+      	overflow: hidden;
+      	background-color: #333;
+      	position: fixed;
+      	top: 0;
+      	width: 100%;
+      	height: 7%;
+      	margin-top: 0px;
+      	!margin-left: -3.5%;
+      	float: left;
+      }
+      ul
+      {
+      	list-style-type: none;
+      	margin: 0;
+      	padding: 0;
+      	overflow: hidden;
+      	background-color: black;
+      }
+      li a
+      {
+      	display: block;
+      	color: white;
+      	text-decoration: none;
+      	float: left;
+      	padding: 10px 17px;
+      	text-align: center;
+
+      }
+      .ear{
+      	display: inline-block;
+      }
+      li{
+      	float: left;
+      }
+      .ro
+      {
+      	background-color: gray;
+      }
+      .r
+      {
+      	width: 70%;
+      	
+
+      }
+      button
+      {
+      	background-color: green;
+      	width: 70;
+      	margin-left: 46%;
+      }
+      h1 p
+      {
+      	margin-left: 30px;
+      	margin-right: 30px;
+      }
+      h4
+      {
+      	text-align: center;
+      }
+      .footer
+      {
+      	background-color: grey;
+      	column-count: 3;
+      	color: white;
+      	padding: left;
+      	padding: top:10px;
+      }
+      
+
+
+     
