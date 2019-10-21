@@ -1,0 +1,25 @@
+   body
+   {
+ 	    margin: 0%;
+ 	    max-width: 10%;
+ 	    padding: 6%;
+ 	   }
+   img
+	{
+		border-radius: 0%;
+		position: bottom;
+		margin-left: 1px;
+		margin-bottom: 40%;
+
+	}
+	.pr
+	{
+		
+		height: 200%;
+		width: 200%;
+	}
+	a
+	{
+		text-decoration: none;
+		color:#25A75E;
+	}
